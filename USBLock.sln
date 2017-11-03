@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBLock", "USBLock\USBLock.csproj", "{61DCCFF7-C6A3-4464-A9FF-3FB6FA041641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USBLockCli", "USBLockCli\USBLockCli.csproj", "{C8E8C689-746F-4A8D-8B92-75FFA918D38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61DCCFF7-C6A3-4464-A9FF-3FB6FA041641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DCCFF7-C6A3-4464-A9FF-3FB6FA041641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DCCFF7-C6A3-4464-A9FF-3FB6FA041641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DCCFF7-C6A3-4464-A9FF-3FB6FA041641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E8C689-746F-4A8D-8B92-75FFA918D38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E8C689-746F-4A8D-8B92-75FFA918D38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E8C689-746F-4A8D-8B92-75FFA918D38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E8C689-746F-4A8D-8B92-75FFA918D38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
